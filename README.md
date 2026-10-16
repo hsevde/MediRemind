@@ -45,7 +45,6 @@ Supabase SQL Editor'da sırayla çalıştır:
 
 - **Proje raporu (rubrik):** [`docs/BITIRME_PROJE_RAPORU.md`](docs/BITIRME_PROJE_RAPORU.md)
 - **Test senaryoları:** [`docs/TEST_SENARYOLARI.md`](docs/TEST_SENARYOLARI.md)
-- **Test kanıtları (Word):** [`docs/TEST_KANITLARI.doc`](docs/TEST_KANITLARI.doc)
 - **Veritabanı şeması:** [`supabase/schema.sql`](supabase/schema.sql)
 
 ## Klasör Yapısı
